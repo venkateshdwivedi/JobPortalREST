@@ -1,4 +1,4 @@
-Job Portal REST API (In-Memory Version without Database)
+# Job Portal REST API (In-Memory Version without Database)
 
 This is a Spring Boot-based RESTful API that allows users to manage job postings. 
 It demonstrates key backend development concepts including REST architecture, layered structure (Controller-Service-Repository), and in-memory data storage using Java collections. 
